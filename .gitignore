@@ -1,0 +1,9 @@
+# Build artefacts (regenerate with cmake -S . -B build)
+build/
+out/
+
+# IDE / editor noise
+.vs/
+*.user
+.vscode-shared/
+.DS_Store
